@@ -23,32 +23,32 @@ Emissions vs population scatter analysis.
 
 5. What is each county’s % contribution to state emissions?
 
-6. Key Features
+Key Features
 
-7. State Deep Dive Page
+State Deep Dive Page
 
-8. state-level KPIs:
+state-level KPIs:
 
-Total Counties
+  Total Counties
 
-Population
+  Population
 
-Total Emissions (mtons CO₂e)
+  Total Emissions (mtons CO₂e)
 
 Per Capita Emissions
 
-Fully dynamic based on slicer selection
+  Fully dynamic based on slicer selection
 
 County-Level Matrix
 
-Rank of each county within its state
+  Rank of each county within its state
 
-Population
+  Population
 
-Emissions
+  Emissions
 
-Per Capita
+  Per Capita
 
-% of State Contribution
+  % of State Contribution
 
-Performance Indicator (Good / Average / High)
+  Performance Indicator (Good / Average / High)
